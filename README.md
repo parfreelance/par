@@ -14,9 +14,11 @@
     # contact us button link (this should be redirect to contact page)
     # what we should do in Are you ready?
     # question and answer content
-    # footer
+    
     
 # GENERAL
   # redesign website
   # favicon
+  # footer
+  # navigation bar for desktop view
   
