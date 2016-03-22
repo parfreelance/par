@@ -45,3 +45,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'puma'
+
+group :production do
+  gem 'heroku-deflater'  
+end
